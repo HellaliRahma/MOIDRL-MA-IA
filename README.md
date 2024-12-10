@@ -15,6 +15,6 @@ Feature selection is paramount in data preprocessing for optimizing feature subs
 - Tensorflow 2.11.0
 
 ## Usage
-(1) python MainMLL.py
+(1) python MD-Many-Objectives-MLL.py
 
 (2) Execute the "Pareto_Front_MLL.ipynb" Jupyter notebook to calculate the Pareto front solutions.
